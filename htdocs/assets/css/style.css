@@ -40,6 +40,10 @@ a {
   text-decoration: none;
 }
 
+.row{
+  justify-content: center;
+}
+
 a:hover {
   color: #35e888;
   text-decoration: none;
